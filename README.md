@@ -80,10 +80,10 @@ En resumen, nos dejó una experiencia muy completa, donde pudimos crear una herr
 
 ## Carpeta tests/ 
 Carpeta tests/ con las pruebas unitarias. 
-
+test_logic.py
 
  ## data/ 
  Carpeta data/ con archivo de persistencia (base de datos o json de ejemplo).
-
+ tareas.json
 
  
