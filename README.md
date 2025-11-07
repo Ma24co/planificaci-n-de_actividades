@@ -28,3 +28,18 @@ planificador_estudiante/
   data/tareas.json
   tests/test_logic.py
 ```
+## JUstificación
+Cada librería tuvo su propósito y juntas hicieron que el programa fuera completo:
+Tkinter le dio una interfaz visual.
+JSON permitió guardar los datos.
+APScheduler agregó automatización.
+Pytest ayudó a comprobar que todo funcione bien.
+Con estas herramientas pudimos cumplir con todos los puntos del proyecto y aprender cómo combinar varias partes de Python en una sola aplicación.
+
+## Fundamentación
+Durante el desarrollo de este proyecto se ha aprendido a combinar distintas librerías de Python para crear una aplicación completa, con interfaz gráfica, almacenamiento de datos y recordatorios automáticos. Al principio fue un gran desafío lograr que todo funcione, especialmente la parte de guardar las tareas y programar los avisos, pero con práctica y pruebas logramos entender cómo se comunican los módulos entre sí. 
+El uso de Tkinter nos permitió mejorar la presentación de la aplicación y hacerla más fácil. También aprendimos a trabajar con archivos JSON para guardar información de manera persistente, algo muy útil en programas reales.
+Además,incluir pruebas con pytest nos ayudó a comprobar que las funciones del programa funcionan correctamente antes de entregar el trabajo.
+Hemos logrado aprender los conocimientos de programación vistos en clase, entender mejor la importancia del diseño modular y valorar la práctica de documentar el código.
+En resumen, nos dejó una experiencia muy completa, donde pudimos crear una herramienta funcional y a la vez seguir aprendiendo sobre cómo planificar, estructurar y mantener un proyecto de software.
+
