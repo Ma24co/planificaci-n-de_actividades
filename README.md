@@ -82,7 +82,10 @@ En resumen, nos dejó una experiencia muy completa, donde pudimos crear una herr
 Carpeta tests/ con las pruebas unitarias. 
 <img width="118" height="101" alt="image" src="https://github.com/user-attachments/assets/098f10f3-7c3e-4cdd-a7c1-49df87239cd9" />
 
- 
+ <img width="159" height="58" alt="image" src="https://github.com/user-attachments/assets/b0efd889-4a66-4545-aae7-3f04abf7b8fb" />
+
  ## data/ 
- Carpeta data/ con archivo de persistencia (base de datos o json de ejemplo).  
+ Carpeta data/ con archivo de persistencia (base de datos o json de ejemplo).
+ <img width="139" height="56" alt="image" src="https://github.com/user-attachments/assets/77935e61-47a5-4aa2-91a5-3feccf30c84d" />
+
  
